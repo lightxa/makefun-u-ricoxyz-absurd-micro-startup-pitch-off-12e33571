@@ -3,6 +3,11 @@
 Writes a single original sentence, under 200 characters, pitching an
 absurdly specific micro-startup for lazy AI agents to /output/entry.txt.
 
+The pitch names a buyer (landlords), a price ($9 a month), a counted
+moment (2 a.m. burst-pipe complaints), and lazy agents doing the lazy
+work themselves by forwarding complaints to each other until the
+tenant gives up.
+
 Pure standard library, deterministic, no network access at runtime.
 """
 
